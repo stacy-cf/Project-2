@@ -12,10 +12,10 @@ import numpy as np
 import pandas as pd
 
 #My Keys
-consumer_key= 'KmsfTSRCAeWXxKttAX1TGb40c'
-consumer_secret= 'IGAk5n07IjIwU7hin3FFWjF22acXrbSOer3C3NeTHtj3tdh2pn'
-access_token= '1242863176745717763-rCNuGjqbU8nO9sxnxFG65eIDeAIz3M'
-access_token_secret= 'SSLwINVVrlUfEeqK1AJNS3JVEBihjNsIUUh9TGjawbMmU'
+consumer_key= '##########################'
+consumer_secret= '##########################'
+access_token= '##########################'
+access_token_secret= '##########################'
 
 #Authentication
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
